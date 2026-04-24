@@ -8,7 +8,7 @@ Aspiring Software Engineering student passionate about:
 - ⚡ Goal: become a skilled software engineer and contribute to impactful projects  
 
 ## 🛠️ Tech Stack
-- Languages: C++, Java, Python, 
+- Languages: C++, Java, C, Assembly
 - Databases: SQL
 - Tools: Git, GitHub, Visual Studio, Linux, Microsoft Office
 
